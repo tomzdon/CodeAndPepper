@@ -2,7 +2,9 @@
 [submodule "backend"]
     path = backend
     url = https://github.com/tomzdon/codeandpepper-backend
+[submodule "backend2"]
     path = backend2
     url = https://github.com/tomzdon/codeandpepper-backend2
-    path = backend2
+[submodule "frontend"]
+    path = frontend
     url = https://github.com/tomzdon/codeandpepper-frontend
